@@ -1,2 +1,0 @@
-# trending
-Tiểu thư
